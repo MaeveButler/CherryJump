@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-03-06T15:48:12.676+01:00
-  initializedAtString: 2021-03-06T15:48:12.676+01:00
+  lastUpdatedAtString: 2021-03-10T12:10:32.115+01:00
+  initializedAtString: 2021-03-10T12:10:32.115+01:00
   currentGitRemote:
     name: github
     url: git@github.com:MaeveCake/CherryJump.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: github/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: github
+      url: git@github.com:MaeveCake/CherryJump.git
+    trackingBranch: master
   currentConfigRemote:
     name: github
     url: git@github.com:MaeveCake/CherryJump.git
